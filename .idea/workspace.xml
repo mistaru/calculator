@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="Current File" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c82275ff-7dd7-4a4b-9012-ef0c5e863e13" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zqoo93yF1KfFf1TQTDGV6M69Dw" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/kfp6" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Develop\calculator\src\main\java" />
+      <recent name="C:\Users\Арген\Documents\calculator\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="calculator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c82275ff-7dd7-4a4b-9012-ef0c5e863e13" name="Default Changelist" comment="" />
+      <created>1585316288282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585316288282</updated>
+      <workItem from="1585316290291" duration="3796000" />
+      <workItem from="1585398651721" duration="2684000" />
+      <workItem from="1585576158421" duration="10151000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="441" y="226" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1585576434044">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="441" y="226" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1585576434044" />
+    <state x="1787" y="96" key="FileChooserDialogImpl" timestamp="1585588696422">
+      <screen x="1366" y="0" width="1280" height="680" />
+    </state>
+    <state x="1787" y="96" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1585588696422" />
+    <state width="1237" height="60" key="GridCell.Tab.0.bottom" timestamp="1585589429719">
+      <screen x="1366" y="0" width="1280" height="680" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1585577331608" />
+    <state width="1237" height="60" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1585589429719" />
+    <state width="1237" height="60" key="GridCell.Tab.0.center" timestamp="1585589429717">
+      <screen x="1366" y="0" width="1280" height="680" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1585577331608" />
+    <state width="1237" height="60" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1585589429717" />
+    <state width="1237" height="60" key="GridCell.Tab.0.left" timestamp="1585589429716">
+      <screen x="1366" y="0" width="1280" height="680" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1585577331608" />
+    <state width="1237" height="60" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1585589429716" />
+    <state width="1237" height="60" key="GridCell.Tab.0.right" timestamp="1585589429718">
+      <screen x="1366" y="0" width="1280" height="680" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1585577331608" />
+    <state width="1237" height="60" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1585589429718" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1585576722503">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1585576722503" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585577162272">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1585577162272" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/calculator$Main.ic" NAME="Main Coverage Results" MODIFIED="1585401771789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20689656" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
